@@ -23,9 +23,4 @@ The app allows users to **view, create, and manage blogs** in a simple and respo
 
 ---
 
-## 💻 Installation
 
-1. **Clone the repository**  
-```bash
-git clone https://github.com/YOUR_USERNAME/NEW_REPO_NAME.git
-cd NEW_REPO_NAME
